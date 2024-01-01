@@ -1,0 +1,5 @@
+public static void main(Strig[] args){
+int a=10;
+int b=a;
+system.out.println(b);
+}
